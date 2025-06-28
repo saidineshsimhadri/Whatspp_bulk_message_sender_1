@@ -1,0 +1,4 @@
+flask==2.3.3
+selenium==4.10.0
+pandas==2.0.3
+webdriver-manager==3.8.6
