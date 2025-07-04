@@ -558,7 +558,7 @@ def open_browser(port):
 
 # --- MODIFICATION START: This block is updated to prevent opening two browsers ---
 if __name__ == '__main__':
-    print("Starting WhatsApp Bulk Sender application...")
+    print("Starting WhatsApp Bulk Sender application....")
     
     create_templates_directory()
     create_index_html()
